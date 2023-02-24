@@ -13,7 +13,7 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
 
 Mets en place une évaluation rigoureuse des performances de la régression, et optimise les hyperparamètres et le choix d’algorithmes de ML à l’aide d’une validation croisée."
 
-Livrables:
+### Livrables:
 
 - Un notebook de l'analyse exploratoire mis au propre et annoté.
 
@@ -21,7 +21,7 @@ Livrables:
  
 - Un support de présentation pour la soutenance (entre 15 et 25 slides).
 
-Compétences évaluées:
+### Compétences évaluées:
 
 - Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
 
